@@ -1,18 +1,18 @@
 :root {
-    --body-background: #11131C;
-    --box-background: #1A1D29;
+    --body-background: #121413;
+    --box-background: #2b2d2c;
     --query-hover: #282D3D;
     --visible-text-color: #8F9191;
     --separator: #0C0E17;
 
-    --logo-color: #7C5CFF;
-    --button-color: #63B8FF;
+    --logo-color: #889aa2;
+    --button-color: #889aa2;
 
-    --red-color: #FF492F;
-    --green-color: #00CF35;
-    --yellow-color: #FF8A00;
-    --blue-color: #00B8FF;
-    --pink-color: #FF62CE;
+    --red-color: #889aa2;
+    --green-color: #889aa2;
+    --yellow-color: #889aa2;
+    --blue-color: #889aa2;
+    --pink-color: #889aa2;
 
     --search-height: 56px;
 

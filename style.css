@@ -20,7 +20,7 @@
 
 @media (prefers-color-scheme: light) {
     :root {
-        --body-background: #F4F2F7;
+        --body-background: #FFFFFF;
         --box-background: #FFFFFF;
         --query-hover: #F6F5F7;
         --visible-text-color: #27242C;
